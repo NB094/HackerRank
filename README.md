@@ -1,3 +1,3 @@
 # HackerRank
 
-My solutions to problems on [HackerRank.](https://www.hackerrank.com/)
+My solutions to challenges on [HackerRank.](https://www.hackerrank.com/)
